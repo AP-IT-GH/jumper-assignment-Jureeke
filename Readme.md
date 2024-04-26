@@ -13,7 +13,7 @@ Agent moet over het obstakel kunnen springen.
 
 ### Werkwijze:
 #### Set-up: 
-Simpele omgeving waarbij de agent over een obstakel moet springen. Aan het einde van de track bevind zich een muur. Deze meer helpt voor te weten of de agent over het obstakel is gesprongen.
+Simpele omgeving waarbij de agent over een obstakel moet springen. Aan het einde van de track bevind zich een muur. Deze is er voor te weten of de agent over het obstakel is gesprongen of niet.
 
 ![Set-up](https://media.discordapp.net/attachments/1233425529009471508/1233425988420108320/Schermafbeelding_2024-04-26_om_16.34.04.png?ex=662d0cf7&is=662bbb77&hm=6790f496a0ed4b7dc0db720e79aaf54a34a7edb30c8a593335a73ebd0546f8de&=&format=webp&quality=lossless&width=1860&height=886 "Set-up")
 
