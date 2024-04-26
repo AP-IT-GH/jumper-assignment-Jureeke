@@ -1,7 +1,7 @@
 # ML Agent Jumper
 
 #### Namen:
-- VIncent Juré
+- Vincent Juré
 - Tijn Wagenmakers
 
 #### Doel:
