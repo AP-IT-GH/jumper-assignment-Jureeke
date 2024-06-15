@@ -15,7 +15,7 @@ Agent moet over het obstakel kunnen springen.
 #### Set-up: 
 Simpele omgeving waarbij de agent over een obstakel moet springen. Aan het einde van de track bevind zich een muur. Deze is er voor te weten of de agent over het obstakel is gesprongen of niet.
 
-![Set-up](https://media.discordapp.net/attachments/1233425529009471508/1233425988420108320/Schermafbeelding_2024-04-26_om_16.34.04.png?ex=662d0cf7&is=662bbb77&hm=6790f496a0ed4b7dc0db720e79aaf54a34a7edb30c8a593335a73ebd0546f8de&=&format=webp&quality=lossless&width=1860&height=886 "Set-up")
+![Set-up](https://cdn.discordapp.com/attachments/1233425529009471508/1233425988420108320/Schermafbeelding_2024-04-26_om_16.34.04.png?ex=666ef7f7&is=666da677&hm=6620c3eaa2b309599bb70debce37b16584cb352e6f238c8423b50de710fdb14d& "Set-up")
 
 #### Agent reward function:
 - De agent krijgt een grote negatieve reward wanneer die het obstakel raakt **Reward (-1.0f)**
@@ -35,7 +35,7 @@ https://learning.ap.be/tokenpluginfile.php/4bc48d334b33f5431527167e4fa40921/2381
 We hebben het verschillende keren laten trainen met nieuwe parameters of andere rewards. De laaste training doet die het beste wat het moet doen.
 
 ##### Tensorboard:
-![Tensorboard](https://media.discordapp.net/attachments/1233425529009471508/1233425619337871460/Schermafbeelding_2024-04-26_om_16.22.09.png?ex=662d0c9f&is=662bbb1f&hm=5716f5333e99df1c79bebf8072240d548fcbf7b683a9de1a651335421d6d511f&=&format=webp&quality=lossless&width=1210&height=1424 "Tensorboard")
+![Tensorboard](https://cdn.discordapp.com/attachments/1233425529009471508/1233425619337871460/Schermafbeelding_2024-04-26_om_16.22.09.png?ex=666ef79f&is=666da61f&hm=9afbdbe944248607f71d1b2bb9f870250a4a3859e97688446fb6c2652b81f345& "Tensorboard")
 
 ### 
 ------------
